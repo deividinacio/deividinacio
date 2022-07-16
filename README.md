@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **deividinacio/deividinacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Olá, sejam bem vindos! 👋</h1>
+<div>
+    <p align="center"> 
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=deividinacio&show_icons=true&theme=tokyonight" >
+    </p>
+</div>
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
